@@ -1,7 +1,7 @@
 ### Hi there👋
 
 I'm Gregory East, a Senior Cloud Security Engineer working in the GovTech industry. 
-I am interested in Python, Cloud Security, IaC, and DevSecOps. I am currently learning more Python and Containerization (Docker)
+I am interested in Python, Cloud Security, IaC, and DevSecOps. I am currently learning Python and Docker to improve my proficiency.
 
 <!-- Introduce yourself and give a brief introduction about yourself here.  Also, include what tech you're interested in and what you are currently learning -->
 
@@ -11,7 +11,7 @@ Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Gregory%20PEast-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gregoryaeast/)](https://www.linkedin.com/in/gregoryaeast/)
 [![Medium Badge](https://img.shields.io/badge/Gregory%20East-12100E?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@gregoryeast1)](https://medium.com/@gregoryeast1)
-[![Gmail Badge](https://img.shields.io/badge/-Broadus@Levelupintech.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Broadus@Levelupintech.com)](mailto:Broadus@Levelupintech.com)
+[![Gmail Badge](https://img.shields.io/badge/-gregeast94@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gregeast94@gmail.com)](mailto:gregeast94@gmail.com)
 
 ## ⚡ Technologies
 
