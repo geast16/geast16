@@ -9,7 +9,7 @@ Find out more about me & feel free to connect with me here:
 
 <!-- Replace the fields below with the information requested. Remember to remove the encapsulating <> characters. For spaces in names, use %20 (e.g. Broadus%20Palmer) -->
 
-[![Linkedin Badge](https://img.shields.io/badge/-Gregory%20PEast-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gregoryaeast/)](https://www.linkedin.com/in/gregoryaeast/)
+[![Linkedin Badge](https://img.shields.io/badge/-Gregory%20East-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gregoryaeast/)](https://www.linkedin.com/in/gregoryaeast/)
 [![Medium Badge](https://img.shields.io/badge/Gregory%20East-12100E?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@gregoryeast1)](https://medium.com/@gregoryeast1)
 [![Gmail Badge](https://img.shields.io/badge/-gregeast94@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gregeast94@gmail.com)](mailto:gregeast94@gmail.com)
 
