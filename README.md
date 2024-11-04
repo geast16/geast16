@@ -5,6 +5,12 @@ I am interested in Python, Cloud Security, IaC, and DevSecOps. To improve my pro
 
 <!-- Introduce yourself and give a brief introduction about yourself here.  Also, include what tech you're interested in and what you are currently learning -->
 
+<h2>👨‍💻 My Projects:</h2>
+
+- <b>Cloud SOC (AlgoExpert)</b>
+  - [Creating a SOC in Azure](https://github.com/geast16/Cloud-SOC/tree/main)
+
+
 Find out more about me & feel free to connect with me here:
 
 <!-- Replace the fields below with the information requested. Remember to remove the encapsulating <> characters. For spaces in names, use %20 (e.g. Broadus%20Palmer) -->
