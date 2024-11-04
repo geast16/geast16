@@ -1,7 +1,7 @@
 ### Hi there👋
 
 I'm Gregory East, a Senior Cloud Security Engineer working in the GovTech industry. 
-I am interested in Python, Cloud Security, IaC, and DevSecOps. I am currently learning Python and Docker to improve my proficiency.
+I am interested in Python, Cloud Security, IaC, and DevSecOps. To improve my proficiency, I am currently learning Python and Docker.
 
 <!-- Introduce yourself and give a brief introduction about yourself here.  Also, include what tech you're interested in and what you are currently learning -->
 
